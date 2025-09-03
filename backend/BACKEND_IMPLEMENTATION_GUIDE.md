@@ -31,9 +31,6 @@ python -m venv .venv
 # Kích hoạt virtual environment
 # Windows:
 .venv\Scripts\activate
-# Linux/Mac:
-source .venv/bin/activate
-```
 
 ### Bước 1.3: Tạo file .env
 ```bash
@@ -1116,4 +1113,5 @@ class EmotionAnalyzer:
 ```
 
 Đây là phần đầu của hướng dẫn implementation backend. Bạn có muốn tôi tiếp tục với các phần còn lại như Search Engine, Caching, Authentication không?
+
 
